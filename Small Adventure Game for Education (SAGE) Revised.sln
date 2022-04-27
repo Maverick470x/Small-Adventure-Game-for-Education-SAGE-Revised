@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32407.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Small Adventure Game for Education (SAGE) Revised", "Small Adventure Game for Education (SAGE) Revised\Small Adventure Game for Education (SAGE) Revised.csproj", "{D3CB396A-766B-4EEC-8781-B95EEFE499EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D3CB396A-766B-4EEC-8781-B95EEFE499EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3CB396A-766B-4EEC-8781-B95EEFE499EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3CB396A-766B-4EEC-8781-B95EEFE499EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3CB396A-766B-4EEC-8781-B95EEFE499EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {14C27315-3FA8-4E5F-81E8-C0238191E072}
+	EndGlobalSection
+EndGlobal
