@@ -4,6 +4,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+//Program Written by Ricky Camhi
+
 namespace Small_Adventure_Game_for_Education__SAGE__Revised
 {
     internal class Program
